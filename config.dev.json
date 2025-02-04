@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "trixiezruc@gmail.com",
+    "password": "Gabrielyuan07282007",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -37,15 +37,15 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "giyu4424@gmail.com",
-      "clientId": "1059342954084-arc67utekgomir3ij8rmlak015kbggkd.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04LDejf55V1moCgYIARAAGAQSNwF-L9IrG4FHBcm52GvhKbydaIIBq3FBG6qQxGlIn8l6Nqg-Q8iRaXRzPvcN3m63HRS1JQTUnXk",
+      "email": "romeobot555@gmail.com",
+      "clientId": "695328982889-v1t85ej9aq1fvv0n4alp7rcbea9gkgvf.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04EyH1gbNUVv5CgYIARAAGAQSNwF-L9IrqcPCQD2QsuhCQ2XprHCTMrTnVPI6WvT9i73nnoi4XqfAD0_yDoGW_gtWUdIeVtANzao",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LcFYcwqAAAAAF8LQOF4pmuT57eq15sKxS8Hznwd",
-      "secretKey": "6LcFYcwqAAAAAP7hZzHvLB60xjL1nO0YtFtBG3K1"
+      "siteKey": "6Lff7Y0mAAAAALiv3IBkCCOfCdEsN-lK-jtR5FCm",
+      "secretKey": "6Lff7Y0mAAAAAGQr8dO3lqDJVhTi8Q-tpLLy2kGo"
     }
   },
   "dashBoard": {
@@ -63,7 +63,7 @@
     }
   },
   "autoRestart": {
-    "time": 3600000,
+    "time": 0,
     "notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
   },
   "autoUptime": {
