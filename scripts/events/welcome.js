@@ -26,20 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "✅ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦! 
-
-➭ BotName: 義 𝗚𝗶𝘆𝘂 | 🌊 勇 
-➭ Bot Prefix: ⟨ / ⟩
-➭ Admin: ⟨ 𝗚𝗔𝗕 𝗬𝗨 ⟩
-➭ Ownerlink: ‹https://www.facebook.com/100079114908948›
-➭ Use /help to view command details",
+			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `┏━━ [ 義 𝗚𝗶𝘆𝘂 | 🌊 勇 ]━━➣
-𝓱𝓮𝓵𝓵𝓸✨{userName}.🌊
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐲𝐨𝐮 𝐭𝐨 𝐭𝐡𝐞 𝐜𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩:{boxName}🌊
-𝐇𝐚𝐯𝐞 𝐚 𝐧𝐢𝐜𝐞 {session}✨
-┗━━━━━━━━━━━━➢`
+			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
 		}
 	},
 
