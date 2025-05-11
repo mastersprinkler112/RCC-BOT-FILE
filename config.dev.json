@@ -18,15 +18,15 @@
   },
   "adminBot": [
     "100079114908948",
-    "61562953390569"
+    "100016412418889"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "義 𝗚𝗶𝘆𝘂 | 🌊 勇",
-  "prefix": "/",
+  "nickNameBot": "Macky bot [ ! ]",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
