@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "saitannuestra@gmail.com",
-    "password": "Gabrielyuan0728",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100079114908948",
-    "100016412418889"
+    "100066356074729",
+    "61562953390569"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Macky bot [ ! ]",
-  "prefix": "!",
+  "nickNameBot": "𝙍𝘾𝘾 𝘽𝙊𝙏 𝙑𝟯",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -133,7 +133,7 @@
     "updatePresence": true,
     "listenTyping": true,
     "logLevel": "error",
-    "selfListen": false,
+    "selfListen": true,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
     "autoReconnect": false,
